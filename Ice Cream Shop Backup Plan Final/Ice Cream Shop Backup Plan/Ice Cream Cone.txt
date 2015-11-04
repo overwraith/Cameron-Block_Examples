@@ -1,0 +1,5 @@
+Ice Cream Cone, 1, Strawberry
+Ice Cream Cone, 2, Vanilla
+Ice Cream Cone, 3, Chocolate
+Ice Cream Cone, 4, Pickle
+Ice Cream Cone, 5, Spumoni

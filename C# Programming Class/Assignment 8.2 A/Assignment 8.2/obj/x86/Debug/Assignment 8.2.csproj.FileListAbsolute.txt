@@ -1,0 +1,12 @@
+N:\C# Programming\Assignments\Assignment 8.2\Assignment 8.2\bin\Debug\Assignment 8.2.exe
+N:\C# Programming\Assignments\Assignment 8.2\Assignment 8.2\bin\Debug\Assignment 8.2.pdb
+N:\C# Programming\Assignments\Assignment 8.2\Assignment 8.2\obj\x86\Debug\Assignment 8.2.exe
+N:\C# Programming\Assignments\Assignment 8.2\Assignment 8.2\obj\x86\Debug\Assignment 8.2.pdb
+N:\C# Programming\Assignments\Assignment 8.2 A\Assignment 8.2\obj\x86\Debug\Assignment 8.2.exe
+N:\C# Programming\Assignments\Assignment 8.2 A\Assignment 8.2\obj\x86\Debug\Assignment 8.2.pdb
+N:\C# Programming\Assignments\Assignment 8.2 A\Assignment 8.2\bin\Debug\Assignment 8.2.exe
+N:\C# Programming\Assignments\Assignment 8.2 A\Assignment 8.2\bin\Debug\Assignment 8.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 A\Assignment 8.2\bin\Debug\Assignment 8.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 A\Assignment 8.2\bin\Debug\Assignment 8.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 A\Assignment 8.2\obj\x86\Debug\Assignment 8.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 A\Assignment 8.2\obj\x86\Debug\Assignment 8.2.pdb

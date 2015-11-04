@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Exercise_5_3.html
+     Purpose: To create a web page that uses handlers for different produce. 
+     -->
+
+<html lang = "en">
+	<head>
+		<title> Exercise_5_3.html </title>
+		<meta charset = "utf-8" />
+	</head>
+	<body>
+		<h1>Fruit Choice</h1>
+		<form id = "myForm" action = "">
+			<p>
+			<!-- First option. -->
+			<label> 
+				<input type = "checkbox" name = "fruitButton" 
+					   value = "apple" 
+					   onclick = "chkApple()" />
+			apple </label>
+			<br />
+			<!-- Second option. -->
+			<label> 
+				<input type = "checkbox" name = "fruitButton" 
+					   value = "orange"  
+					   onclick = "chkOrange()" />
+			orange </label>
+			<br />
+			<!-- Third option. -->
+			<label> 
+				<input type = "checkbox" name = "fruitButton" 
+					   value = "banana"  
+					   onclick = "chkBanana()" />
+			banana </label>
+			<br />
+			<br />
+			<!-- Submit Button -->
+			<input type = "submit" value = "Submit"/>
+			</p>
+			
+		</form>
+		
+		<!-- Place event handler registering scripts in the body at the
+			 bottom of the page -->
+		<script type = "text/javascript" src = "chkFruit.js" >
+		</script>
+	</body>
+
+</html>

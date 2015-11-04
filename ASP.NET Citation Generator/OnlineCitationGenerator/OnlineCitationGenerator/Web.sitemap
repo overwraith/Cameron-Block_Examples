@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Home.aspx" title="Home"  description="Home page. ">
+    <siteMapNode url="About.aspx" title="About"  description="About page. " />
+    <siteMapNode url="Login.aspx" title="Login"  description="Login page. " />
+      <siteMapNode url="EditReferences.aspx" title="CitationInput"  description="Modify Citations. " />
+      <siteMapNode url="PasswordRecovery.aspx" title="Password Recovery"  description="Recover your password. " />
+      <siteMapNode url="CreateUser.aspx" title="Create User"  description="Create a new user. " />
+      <siteMapNode url="ChangePassword.aspx" title="Change Password"  description="Change your current password. " />
+      <siteMapNode url="References.aspx" title="References"  description="Choose to edit one of your many references. " />
+      <siteMapNode url="NewBook.aspx" title="New Book"  description="Enter information for a new book. " />
+      <siteMapNode url="NewAuthor.aspx" title="New Author"  description="Add a new author to the selected book. " />
+      <siteMapNode url="NewEditor.aspx" title="New Editor"  description="Add a new editor to the selected book. " />
+      <siteMapNode url="PrivacyPage.aspx" title="Privacy Page"  description="Our privacy stance. " />
+      <siteMapNode url="ContactUs.aspx" title="Contact Us"  description="Contact the site admin. " />
+      <siteMapNode url="Error404.aspx" title="Error 404"  description="Web Request not found. " />
+    </siteMapNode>
+</siteMap>

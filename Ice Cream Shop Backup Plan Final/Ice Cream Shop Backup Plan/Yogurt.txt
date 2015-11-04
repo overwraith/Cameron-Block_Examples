@@ -1,0 +1,5 @@
+Yogurt Cone, 1, Strawberry
+Yogurt Cone, 2, Vanilla
+Yogurt Cone, 3, Chocolate
+Yogurt Cone, 4, Pickle
+Yogurt Cone, 5, Spumoni

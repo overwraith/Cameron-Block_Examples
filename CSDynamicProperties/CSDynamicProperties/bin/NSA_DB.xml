@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExpandableObject>
+  <ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Entry>
+      <Key>num</Key>
+      <Value xsi:type="xsd:int">3</Value>
+    </Entry>
+    <Entry>
+      <Key>name</Key>
+      <Value xsi:type="xsd:string">Cameron Block</Value>
+    </Entry>
+    <Entry>
+      <Key>phone_num</Key>
+      <Value xsi:type="xsd:string">402-734-0281</Value>
+    </Entry>
+    <Entry>
+      <Key>email</Key>
+      <Value xsi:type="xsd:string">cnblock@cox.net</Value>
+    </Entry>
+  </ArrayOfEntry>
+</ExpandableObject>

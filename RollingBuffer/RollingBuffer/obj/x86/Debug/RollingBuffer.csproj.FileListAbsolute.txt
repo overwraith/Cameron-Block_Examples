@@ -1,0 +1,11 @@
+C:\Users\cameron\Desktop\RollingBuffer\RollingBuffer\bin\Debug\RollingBuffer.exe
+C:\Users\cameron\Desktop\RollingBuffer\RollingBuffer\bin\Debug\RollingBuffer.pdb
+C:\Users\cameron\Desktop\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.exe
+C:\Users\cameron\Desktop\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.pdb
+C:\Users\cameron\Desktop\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.csprojResolveAssemblyReference.cache
+O:\C#\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.exe
+O:\C#\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.pdb
+G:\C#\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.exe
+G:\C#\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.pdb
+D:\Old Computer\Old Desktop\Programming Samples - Employers\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\RollingBuffer\RollingBuffer\obj\x86\Debug\RollingBuffer.pdb

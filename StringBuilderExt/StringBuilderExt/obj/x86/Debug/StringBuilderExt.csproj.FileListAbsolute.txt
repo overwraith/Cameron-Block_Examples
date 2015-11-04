@@ -1,0 +1,16 @@
+C:\Users\cameron\Desktop\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.exe
+C:\Users\cameron\Desktop\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.pdb
+C:\Users\cameron\Desktop\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.exe
+C:\Users\cameron\Desktop\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.pdb
+N:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.exe
+N:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.pdb
+N:\C#\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.exe
+N:\C#\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.pdb
+N:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.csprojResolveAssemblyReference.cache
+G:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.exe
+G:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.pdb
+G:\C#\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.exe
+G:\C#\StringBuilderExt\StringBuilderExt\bin\Debug\StringBuilderExt.pdb
+G:\C#\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.csprojResolveAssemblyReference.cache
+D:\Old Computer\Old Desktop\Programming Samples - Employers\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\StringBuilderExt\StringBuilderExt\obj\x86\Debug\StringBuilderExt.pdb

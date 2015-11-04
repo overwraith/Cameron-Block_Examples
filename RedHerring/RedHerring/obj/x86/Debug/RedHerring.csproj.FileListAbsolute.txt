@@ -1,0 +1,12 @@
+C:\Users\cameron\Desktop\RedHerring\RedHerring\bin\Debug\RedHerring.exe
+C:\Users\cameron\Desktop\RedHerring\RedHerring\bin\Debug\RedHerring.pdb
+C:\Users\cameron\Desktop\RedHerring\RedHerring\obj\x86\Debug\RedHerring.exe
+C:\Users\cameron\Desktop\RedHerring\RedHerring\obj\x86\Debug\RedHerring.pdb
+O:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.exe
+O:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.pdb
+F:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.exe
+F:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.pdb
+G:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.exe
+G:\C#\RedHerring\RedHerring\obj\x86\Debug\RedHerring.pdb
+D:\Old Computer\Old Desktop\Programming Samples - Employers\RedHerring\RedHerring\obj\x86\Debug\RedHerring.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\RedHerring\RedHerring\obj\x86\Debug\RedHerring.pdb

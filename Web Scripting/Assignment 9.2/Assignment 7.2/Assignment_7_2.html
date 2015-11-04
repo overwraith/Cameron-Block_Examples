@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Assignment_7_2.html
+     Purpose: To use PHP and Ajax, Exercises 9.10 - 10.3
+     -->
+
+<html lang = "en">
+  <head>
+  	<title> Assignment 6.2 </title>
+		<meta charset = "utf-8" />
+	</head>
+	
+	<body>
+		<h1>Assignment 7.2</h1>
+		
+		<!-- From here out am using sub folders for subsequent assignments. 
+				Should have started this a little earlier, but I was busy. 
+				.. works for previous directory, and looks like you can insert
+				spaces in anchor file paths. 
+				-->
+		<img src = "../Images/Master.jpg" height = "145" alt = "Picture of me. " />
+		
+		<!-- Exercise 9.9 -->
+		<h2>Exercise 9.9/9.10</h2>
+		<form action = "Assignment_7_2.php" method = "post">
+			<p>
+				<!-- Label and textbox for username -->
+				<label> User Name: <input name = "txtUserName" type="text" size = "30"/></label>
+				<br />
+				
+				<label> <input name = "chkBulbs1" type="checkbox" value = "2.39" /> Four 25-watt light bulbs $2.39</label>
+				<br />
+				
+				<label> <input name = "chkBulbs2" type="checkbox" value = "4.29" /> Eight 25-watt light bulbs $4.29</label>
+				<br />
+				
+				<label> <input name = "chkBulbs3" type="checkbox" value = "3.95" /> Four 25-watt long-life light bulbs $3.95</label>
+				<br />
+				
+				<label> <input name = "chkBulbs4" type="checkbox" value = "7.49" /> Eight 25-watt long life light bulbs $7.49</label>
+				<br />
+				
+				<br />
+				
+				<label> <input name = "payment" type="radio" value = "Visa" /> Visa </label>
+				<br />
+				
+				<label> <input name = "payment" type="radio" value = "Master Card" /> Master Card </label>
+				<br />
+				
+				<label> <input name = "payment" type="radio" value = "Discover" /> Discover </label>
+				<br />
+				
+				<!-- Submit/Reset Buttons -->
+				<input type = "submit" name = "submit" value = "Submit"/>
+				<input type = "reset"/>
+				
+			</p>
+		</form>
+		
+	</body>
+</html>

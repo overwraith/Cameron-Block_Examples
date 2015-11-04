@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="TermProjectCS.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <%-- Include the style sheet --%>    <%-- <link href="Styles/Main.css" rel="Stylesheet" type="text/css" />--%>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="page">
+        <div id="title">
+            <h1>
+                <asp:ImageButton ID="ImageButton1" runat="server" Height="145px" 
+                    ImageUrl="~/Images/Master.jpg" />
+                <span class="header">My CIS 434 ASP.NET Term Project</span> [<asp:LoginName 
+                    ID="LoginName1" runat="server" />
+                ]<asp:LoginStatus ID="LoginStatus1" runat="server" 
+                    onloggedout="LoginStatus1_LoggedOut" />
+            </h1>
+            </br>
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                </asp:SiteMapPath>
+            </br>
+            
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ContactUs.aspx">Contact us</asp:HyperLink>
+            </br>
+
+
+        </div>
+
+        <div id="body">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        </form>
+    </div>
+</body>
+</html>

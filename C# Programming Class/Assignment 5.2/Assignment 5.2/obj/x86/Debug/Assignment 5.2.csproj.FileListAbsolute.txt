@@ -1,0 +1,8 @@
+N:\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\bin\Debug\Assignment 5.2.exe
+N:\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\bin\Debug\Assignment 5.2.pdb
+N:\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.exe
+N:\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.pdb
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.exe
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 5.2\Assignment 5.2\obj\x86\Debug\Assignment 5.2.pdb

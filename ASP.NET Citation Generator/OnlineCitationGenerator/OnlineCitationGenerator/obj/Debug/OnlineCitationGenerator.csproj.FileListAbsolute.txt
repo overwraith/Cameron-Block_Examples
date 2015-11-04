@@ -1,0 +1,25 @@
+C:\Users\cameron\Desktop\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.csprojResolveAssemblyReference.cache
+N:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.dll
+N:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.pdb
+N:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.csprojResolveAssemblyReference.cache
+N:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.dll
+N:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.pdb
+O:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.dll
+O:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.pdb
+O:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.csprojResolveAssemblyReference.cache
+O:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.dll
+O:\Old School\BU\Spring 2014\ASP.NET\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\Submitted Work\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\Submitted Work\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\Submitted Work\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\Submitted Work\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\Submitted Work\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Programming Samples - Employers\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\Programming Samples - Employers\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\bin\OnlineCitationGenerator.pdb
+C:\Users\cameron\Desktop\Programming Samples - Employers\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Programming Samples - Employers\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.dll
+C:\Users\cameron\Desktop\Programming Samples - Employers\ASP.NET Citation Generator\OnlineCitationGenerator\OnlineCitationGenerator\obj\Debug\OnlineCitationGenerator.pdb

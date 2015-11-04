@@ -1,0 +1,18 @@
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\bin\Debug\Assignment 9.2.exe
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\bin\Debug\Assignment 9.2.pdb
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment_9._2.Form1.resources
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment_9._2.Properties.Resources.resources
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.csproj.GenerateResource.Cache
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.exe
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.pdb
+N:\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.csprojResolveAssemblyReference.cache
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.exe
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\bin\Debug\Assignment 9.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\bin\Debug\Assignment 9.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment_9._2.Form1.resources
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment_9._2.Properties.Resources.resources
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 9.2\Assignment 9.2\obj\x86\Debug\Assignment 9.2.csproj.GenerateResource.Cache

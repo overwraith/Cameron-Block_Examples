@@ -1,0 +1,12 @@
+C:\Users\cameron\Desktop\Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Users\cameron\Desktop\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\cameron\Desktop\Fractions\Fractions\obj\x86\Debug\Fractions.exe
+C:\Users\cameron\Desktop\Fractions\Fractions\obj\x86\Debug\Fractions.pdb
+C:\Users\cameron\Desktop\Fractions\Fractions\obj\x86\Debug\Fractions.csprojResolveAssemblyReference.cache
+G:\C#\Fractions\Fractions\obj\x86\Debug\Fractions.exe
+G:\C#\Fractions\Fractions\obj\x86\Debug\Fractions.pdb
+G:\C#\Fractions\Fractions\bin\Debug\Fractions.exe
+G:\C#\Fractions\Fractions\bin\Debug\Fractions.pdb
+G:\C#\Fractions\Fractions\obj\x86\Debug\Fractions.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Programming Samples - Employers\Fractions\Fractions\obj\x86\Debug\Fractions.exe
+C:\Users\cameron\Desktop\Programming Samples - Employers\Fractions\Fractions\obj\x86\Debug\Fractions.pdb

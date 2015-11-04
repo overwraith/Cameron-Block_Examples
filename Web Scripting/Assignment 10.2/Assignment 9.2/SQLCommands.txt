@@ -1,0 +1,7 @@
+CREATE TABLE cars(id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT, name CHAR(32));
+
+INSERT INTO cars (name) VALUES('Century Custom');
+
+SELECT * FROM cars;
+
+UPDATE cars SET name = 'VW Bug' WHERE id = 1;

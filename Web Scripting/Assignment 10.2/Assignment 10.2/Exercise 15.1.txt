@@ -1,0 +1,6 @@
+#Author: Cameron Block 
+#Class: CIS 337 Web Scripting
+#File: Exercise 15.1.html
+#Purpose: Briefly describe an MVC application. 
+
+An MVC application, also known as the Model View Controller, is an application which follows a very specific architectural structure. The Browser initiates conversation with the server side, the Controller handles the request. The Controller can then make calls to the Model part of the architecture, which can send and receive data from the database. The Controller can also make calls to the View part of the architecture which returns responses to the browser. Ruby on Rails is just such an architecture. The developer implements controller classes to create functionality in the designed website. 

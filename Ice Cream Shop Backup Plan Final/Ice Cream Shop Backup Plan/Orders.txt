@@ -1,0 +1,34 @@
+Order,1,1,10
+Ice Cream Cone,1,Pickle
+Ice Cream Cone,1,Tangarine 
+Ice Cream Cone,1,Nectarine
+Ice Cream Cone,1,Orange 
+Ice Cream Cone,1,Chocolate 
+Ice Cream Cone,1,Fudge
+Yogurt Cone,1,Pickle
+Yogurt Cone,1,Tangarine
+Yogurt Cone,1,Nectarine 
+Yogurt Cone,1,Orange
+Order,2,1,10
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Order,3,1,10
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+

@@ -1,0 +1,32 @@
+E:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+E:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+N:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+N:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+N:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+N:\C# Programming\Group Project\Ice Cream Shop\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+F:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+F:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+F:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+F:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+F:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+E:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+E:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+E:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+E:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice_Cream_Shop.IceCreamShop_Form.resources
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+N:\C# Programming\Group Project\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice_Cream_Shop.IceCreamShop_Form.resources
+C:\Users\cameron\Desktop\Submitted Work\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+C:\Users\cameron\Desktop\Programming Samples - Employers\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+C:\Users\cameron\Desktop\Programming Samples - Employers\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb
+D:\Old Computer\Old Desktop\Programming Samples - Employers\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\Ice Cream Shop Backup Plan Final\Ice Cream Shop Backup Plan\Ice Cream Shop\obj\x86\Debug\Ice Cream Shop.pdb

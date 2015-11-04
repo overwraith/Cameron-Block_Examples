@@ -1,0 +1,16 @@
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\bin\Debug\Assignment 8.2 B.exe
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\bin\Debug\Assignment 8.2 B.pdb
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment_8._2_B.assignment8.resources
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment_8._2_B.Properties.Resources.resources
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.csproj.GenerateResource.Cache
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.exe
+N:\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.pdb
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.exe
+N:\Old School\BU\Winter 2014\C# Programming\Assignments\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\bin\Debug\Assignment 8.2 B.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\bin\Debug\Assignment 8.2 B.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment_8._2_B.assignment8.resources
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment_8._2_B.Properties.Resources.resources
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 8.2 B\Assignment 8.2 B\obj\x86\Debug\Assignment 8.2 B.csproj.GenerateResource.Cache

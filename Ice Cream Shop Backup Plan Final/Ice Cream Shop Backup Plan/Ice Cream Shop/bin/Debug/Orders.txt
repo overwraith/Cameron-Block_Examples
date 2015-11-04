@@ -1,0 +1,82 @@
+Order,1,1,10
+Ice Cream Cone,1,Pickle
+Ice Cream Cone,1,Tangarine 
+Ice Cream Cone,1,Nectarine
+Ice Cream Cone,1,Orange 
+Ice Cream Cone,1,Chocolate 
+Ice Cream Cone,1,Fudge
+Yogurt Cone,1,Pickle
+Yogurt Cone,1,Tangarine
+Yogurt Cone,1,Nectarine 
+Yogurt Cone,1,Orange
+Order,2,1,10
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Order,3,1,10
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Ice Cream Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Yogurt Cone,1,Strawberry 
+Order,4,2,3
+Ice Cream Cone,3,Strawberry 
+Ice Cream Cone,3,Strawberry 
+Ice Cream Cone,3,Strawberry 
+Order,5,1,10
+Ice Cream Cone,4,Strawberry 
+Ice Cream Cone,4,Strawberry 
+Ice Cream Cone,4,Strawberry 
+Yogurt Cone,4,Strawberry 
+Yogurt Cone,4,Strawberry 
+Yogurt Cone,4,Strawberry 
+Ice Cream Cone,4,Strawberry 
+Yogurt Cone,4,Strawberry
+Ice Cream Cone,4,Strawberry
+Yogurt Cone,4,Strawberry
+Order,6,5,10
+Ice Cream Cone,3,Pickle 
+Ice Cream Cone,3,Tangarine 
+Ice Cream Cone,3,Nectarine 
+Ice Cream Cone,3,Orange 
+Ice Cream Cone,3,Fudge 
+Ice Cream Cone,3,Spumoni 
+Ice Cream Cone,3,Strawberry 
+Ice Cream Cone,3,Vanilla 
+Ice Cream Cone,3,Fudge 
+Ice Cream Cone,3,Chocolate 
+Order,7,5,3
+Ice Cream Cone,2,Pickle 
+Ice Cream Cone,2,Pickle 
+Ice Cream Cone,2,Pickle 
+Order,8,10,5
+Ice Cream Cone,3,Tangarine 
+Ice Cream Cone,3,Tangarine 
+Ice Cream Cone,3,Tangarine 
+Ice Cream Cone,3,Tangarine 
+Ice Cream Cone,3,Tangarine 
+Order,9,6,6
+Ice Cream Cone,5,Tangarine 
+Ice Cream Cone,5,Tangarine 
+Ice Cream Cone,5,Tangarine 
+Yogurt Cone,5,Tangarine 
+Yogurt Cone,5,Tangarine 
+Yogurt Cone,5,Tangarine 
+Order,10,5,5
+Yogurt Cone,4,Fudge 
+Yogurt Cone,4,Fudge 
+Yogurt Cone,4,Fudge 
+Yogurt Cone,4,Fudge 
+Yogurt Cone,4,Fudge 

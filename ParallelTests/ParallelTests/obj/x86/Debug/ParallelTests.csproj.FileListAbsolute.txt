@@ -1,0 +1,11 @@
+C:\Users\cameron\Desktop\ParallelTests\ParallelTests\bin\Debug\ParallelTests.exe
+C:\Users\cameron\Desktop\ParallelTests\ParallelTests\bin\Debug\ParallelTests.pdb
+C:\Users\cameron\Desktop\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.exe
+C:\Users\cameron\Desktop\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.pdb
+C:\Users\cameron\Desktop\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.csprojResolveAssemblyReference.cache
+O:\C#\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.exe
+O:\C#\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.pdb
+G:\C#\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.exe
+G:\C#\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.pdb
+D:\Old Computer\Old Desktop\Programming Samples - Employers\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\ParallelTests\ParallelTests\obj\x86\Debug\ParallelTests.pdb

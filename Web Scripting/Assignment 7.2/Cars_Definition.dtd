@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Cars_Definition.dtd
+     Purpose: The Data Type Diagram for the cars XML class. 
+     -->
+
+<!ELEMENT Car_Catalog (Car*)>
+<!ELEMENT Car (make, model, year, color, engine, number_of_doors, transmission_type, accessories)>
+<!ELEMENT make (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT engine (number_of_cylinders, fuel_system)>
+<!ELEMENT number_of_doors (#PCDATA)>
+<!ELEMENT transmission_type (#PCDATA)>
+
+<!-- Accessories element contains the following attributes. -->
+<!ELEMENT accessories (#PCDATA)>
+<!ATTLIST accessories
+	radio (yes | no) #REQUIRED
+	air_conditioning (yes | no) #REQUIRED
+	power_windows (yes | no) #REQUIRED
+	power_steering (yes | no) #REQUIRED
+	power_brakes (yes | no) #REQUIRED>
+
+<!-- Nested element types. -->
+<!ELEMENT number_of_cylinders (#PCDATA)>
+<!ELEMENT fuel_system (#PCDATA)>

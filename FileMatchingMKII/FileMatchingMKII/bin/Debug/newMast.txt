@@ -1,0 +1,4 @@
+100 375.31  Alan Jones
+300 89.30  Mary Smith
+500 0  Sam Sharp
+700 -14.22  Suzy Green

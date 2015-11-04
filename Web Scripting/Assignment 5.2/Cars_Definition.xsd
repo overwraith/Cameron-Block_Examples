@@ -1,0 +1,102 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Cars_Definition.xsd
+     Purpose: The Data Type Diagram for the cars XML class. 
+     -->
+
+<xs:schema 
+	xmlns:xs = "http://www.w3.org/2001/XMLSchema" 
+	targetNamespace = "http://academic1.bellevue.edu/users/CIS33733/CarsXMLSchema"
+  xmlns = "http://academic1.bellevue.edu/users/CIS33733/CarsXMLSchema"
+	elementFormDefault = "qualified">
+	
+	<!-- Define Car_Catalog class. -->
+	<xs:element name = "Car_Catalog">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Car" type = "Car" maxOccurs = "unbounded" minOccurs="1" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- Define Car class. -->
+	<xs:complexType name = "Car">
+    <xs:sequence>
+		  <xs:element name = "make" type = "xs:string"/>
+		  <xs:element name = "model" type = "xs:string"/>
+		  <xs:element name = "year" type = "xs:integer"/>
+      <xs:element name = "color" type = "xs:string"/>
+		  <!-- Nested element types. -->
+		  <xs:element name = "engine" type = "engine"/>
+		
+		  <xs:element name = "number_of_doors" type = "xs:integer"/>
+		  <xs:element name = "transmission_type" type = "xs:string"/>
+		
+		  <!-- Accessories element contains the following attributes. -->
+      <xs:element name = "accessories">
+
+        <xs:complexType>
+          <xs:simpleContent>
+            <!-- String content. -->
+            <xs:extension base ="xs:string">
+              <!-- Yes/No attributes. -->
+              <xs:attribute name="radio" type="radio" use ="required"/>
+              <xs:attribute name="air_conditioning" type="air_conditioning" use ="required"/>
+              <xs:attribute name="power_windows" type="power_windows" use ="required"/>
+              <xs:attribute name="power_steering" type="power_steering" use ="required"/>
+              <xs:attribute name="power_brakes" type="power_brakes" use ="required"/>
+            </xs:extension>
+          </xs:simpleContent>
+        </xs:complexType>
+
+      </xs:element>
+    </xs:sequence>
+	</xs:complexType>
+	
+	<!-- Define engine class. -->
+	<xs:complexType name = "engine">
+    <xs:sequence>
+		  <xs:element name = "number_of_cylinders" type = "xs:integer"/>
+		  <xs:element name = "fuel_system" type = "xs:string"/>
+    </xs:sequence>
+	</xs:complexType>
+  
+  
+  <!-- Define the attributes to be used in the car class. -->
+  <xs:simpleType name="radio">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value ="yes"/>
+      <xs:enumeration value ="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="air_conditioning">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value ="yes"/>
+        <xs:enumeration value ="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="power_windows">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value ="yes"/>
+      <xs:enumeration value ="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="power_steering">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value ="yes"/>
+      <xs:enumeration value ="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="power_brakes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value ="yes"/>
+      <xs:enumeration value ="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+    
+</xs:schema>

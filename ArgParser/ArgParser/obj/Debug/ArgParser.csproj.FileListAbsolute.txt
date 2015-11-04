@@ -1,0 +1,9 @@
+D:\Dev\C#\ArgParser\ArgParser\bin\Debug\ArgParser.exe.config
+D:\Dev\C#\ArgParser\ArgParser\obj\Debug\ArgParser.csprojResolveAssemblyReference.cache
+D:\Dev\C#\ArgParser\ArgParser\bin\Debug\ArgParser.exe
+D:\Dev\C#\ArgParser\ArgParser\bin\Debug\ArgParser.pdb
+D:\Dev\C#\ArgParser\ArgParser\obj\Debug\ArgParser.exe
+D:\Dev\C#\ArgParser\ArgParser\obj\Debug\ArgParser.pdb
+F:\ArgParser\ArgParser\bin\Debug\ArgParser.exe.config
+F:\ArgParser\ArgParser\obj\Debug\ArgParser.exe
+F:\ArgParser\ArgParser\obj\Debug\ArgParser.pdb

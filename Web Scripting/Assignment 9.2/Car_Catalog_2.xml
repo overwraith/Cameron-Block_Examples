@@ -1,0 +1,74 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Car_Catalog.xml
+     Purpose: The Data Type Diagram for the cars XML class. 
+     -->
+
+<Car_Catalog 
+	xmlns = "http://academic1.bellevue.edu/users/CIS33733/CarsXMLSchema"
+	xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation = "http://academic1.bellevue.edu/users/CIS33733 Cars_Definition.xsd">
+	<Car>
+		<make>Chevy</make>
+		<model>Buick Century Custom</model>
+		<year>2001</year>
+		<color>Gold</color>
+		<!-- Engine a composite type. -->
+		<engine>
+			<number_of_cylinders>6</number_of_cylinders>
+			<fuel_system>Nuclear Fusion</fuel_system>
+			<!-- I am a programmer, not an engineer! -->
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>Automatic</transmission_type>
+		<!-- Accessories has a lot of attributes-->
+		<accessories 
+			radio = "yes" 
+			air_conditioning = "yes" 
+			power_windows = "yes" 
+			power_steering = "yes" 
+			power_brakes = "yes">Full Package</accessories>
+	</Car>
+	<Car>
+		<make>Chevi</make>
+		<model>Malibu</model>
+		<year>2001</year>
+		<color>Maroon</color>
+		<!-- Engine a composite type. -->
+		<engine>
+			<number_of_cylinders>6</number_of_cylinders>
+			<fuel_system>Gas</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>Automatic</transmission_type>
+		<!-- Accessories has a lot of attributes-->
+		<accessories 
+			radio = "yes" 
+			air_conditioning = "yes" 
+			power_windows = "yes" 
+			power_steering = "yes" 
+			power_brakes = "yes">Full Package</accessories>
+	</Car>
+	<Car>
+		<make>Chevy</make>
+		<model>Cobalt</model>
+		<year>2008</year>
+		<color>Blue</color>
+		<!-- Engine a composite type. -->
+		<engine>
+			<number_of_cylinders>4</number_of_cylinders>
+			<fuel_system>Gas</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>Automatic</transmission_type>
+		<!-- Accessories has a lot of attributes-->
+		<accessories 
+			radio = "yes" 
+			air_conditioning = "yes" 
+			power_windows = "yes" 
+			power_steering = "yes" 
+			power_brakes = "yes">Full Package</accessories>
+	</Car>
+</Car_Catalog>

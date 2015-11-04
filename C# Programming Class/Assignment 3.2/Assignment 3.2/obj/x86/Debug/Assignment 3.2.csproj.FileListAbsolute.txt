@@ -1,0 +1,13 @@
+G:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\bin\Debug\Assignment 3.2.exe
+G:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\bin\Debug\Assignment 3.2.pdb
+G:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.exe
+G:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.pdb
+I:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.exe
+I:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.pdb
+N:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.exe
+N:\C# Programming\Assignments\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.pdb
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.exe
+C:\Users\cameron\Desktop\Submitted Work\C# Programming Class\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.pdb
+D:\Old Computer\Old Desktop\Programming Samples - Employers\C# Programming Class\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.exe
+D:\Old Computer\Old Desktop\Programming Samples - Employers\C# Programming Class\Assignment 3.2\Assignment 3.2\obj\x86\Debug\Assignment 3.2.pdb

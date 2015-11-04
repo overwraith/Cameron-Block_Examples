@@ -1,0 +1,12 @@
+C:\Users\cameron\Desktop\PrintingExample\PrintingExample\bin\Debug\PrintingExample.exe
+C:\Users\cameron\Desktop\PrintingExample\PrintingExample\bin\Debug\PrintingExample.pdb
+C:\Users\cameron\Desktop\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.exe
+C:\Users\cameron\Desktop\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.pdb
+O:\C#\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.exe
+O:\C#\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.pdb
+O:\C#\PrintingExample\PrintingExample\bin\Debug\PrintingExample.exe
+O:\C#\PrintingExample\PrintingExample\bin\Debug\PrintingExample.pdb
+G:\C#\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.exe
+G:\C#\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.pdb
+C:\Users\cameron\Desktop\Programming Samples - Employers\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.exe
+C:\Users\cameron\Desktop\Programming Samples - Employers\PrintingExample\PrintingExample\obj\x86\Debug\PrintingExample.pdb

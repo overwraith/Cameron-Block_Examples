@@ -1,0 +1,17 @@
+C:\Users\cameron\Desktop\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.exe
+C:\Users\cameron\Desktop\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.pdb
+C:\Users\cameron\Desktop\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.exe
+C:\Users\cameron\Desktop\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.pdb
+C:\Users\cameron\Desktop\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.csprojResolveAssemblyReference.cache
+G:\C#\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.exe
+G:\C#\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.pdb
+G:\C#\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.exe
+G:\C#\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.pdb
+G:\C#\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Submitted Work\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.exe
+C:\Users\cameron\Desktop\Submitted Work\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.pdb
+C:\Users\cameron\Desktop\Submitted Work\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.exe
+C:\Users\cameron\Desktop\Submitted Work\CSDynamicProperties\CSDynamicProperties\bin\Debug\CSDynamicProperties.pdb
+C:\Users\cameron\Desktop\Submitted Work\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Programming Samples - Employers\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.exe
+C:\Users\cameron\Desktop\Programming Samples - Employers\CSDynamicProperties\CSDynamicProperties\obj\x86\Debug\CSDynamicProperties.pdb

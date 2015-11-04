@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<!-- Author: Cameron Block 
+     Class: CIS 337 Web Scripting
+     File: Assignment_3.2.html
+     Purpose: Lots of requirements, no general purpose. 
+     -->
+
+<html lang = "en">
+	<head>
+		<title> Cameron's Assignment 3.2 Lab</title>
+		<meta charset = "utf-8" />
+
+		<!-- implicit embedding -->
+		<script type="text/javascript" src = "Exercise_4_1.js"></script>
+		
+		<!-- explicit embedding -->
+		<script type="text/javascript">
+			<!-- 
+			//Exercise 4.3
+			document.write('</br>');
+			document.write('Exercise 4.3</br>');
+			
+			var arr = new Array(3);
+			for(var i = 0; i < 3; i++)
+				arr[i] = prompt('Please input a number (' + (i + 1) + '): ' );
+			
+			document.write('Largest value is: ' + Math.max(arr[0], arr[1], arr[2]) + '</br>');
+			// -->
+		</script>
+		
+		<script type="text/javascript">
+			<!-- 
+			//Exercise 4.5
+			
+			document.write('</br>');
+			document.write('Exercise 4.5</br>');
+			
+			var str = prompt('Please input a name: ');
+			//bob being the shortest name on the planet
+			if(str.search(/^[A-Za-z]{3,15},\s[A-Za-z]{3,15},\s[A-Za-z]{1}$/) != -1)
+				document.write('Valid Name </br>');
+			// -->
+		</script>
+		
+		<script type="text/javascript">
+			<!-- 
+			//Exercise 4.11
+			function fun_1(arr){
+				var negatives = 0;
+				var positives = 0;
+				var zeroes = 0;
+				
+				for(var i = 0; i < arr.length; i++)
+					switch (true){
+						case (arr[i] < 0)://negatives
+							negatives++;
+							break;
+						case (arr[i] > 0)://positives
+							positives++;
+							break;
+						default://zeroes
+							zeroes++;
+					}//end switch
+					
+				return [negatives, zeroes, positives];
+			}//end function
+			
+			document.write('</br>');
+			document.write('Exercise 4.11</br>');
+			document.write('negatives,postives,zeroes:' + fun_1(new Array(-1, -1, -1, 0, 0, 1, 1, 1)) + '</br>');
+			// -->
+		</script>
+		
+		<script type="text/javascript">
+			<!-- 
+			//Exercise 4.12
+			function tst_name(str){
+				if(str.search(/(^[A-Z]{1}[a-z]+,\s[A-Z]{1}[a-z]+\s[A-Z]{1}$)/) != -1)
+					return true;
+				
+				return false;
+			}
+			//testing function tst_name()
+			document.write('</br>');
+			document.write('Exercise 4.12</br>');
+			document.write('Testing string \'String, String A\': \t' + (tst_name('String, String A') ? 'true</br>' : 'false</br>'));
+			document.write('Testing string \'string, string A\': \t' + (tst_name('string, string A') ? 'true</br>' : 'false</br>'));
+			document.write('Testing string \'string, String A\': \t' + (tst_name('string, String A') ? 'true</br>' : 'false</br>'));
+			document.write('Testing string \'String, String AA\': \t' + (tst_name('String, String AA') ? 'true</br>' : 'false</br>'));
+			document.write('Testing string \'String, String a\': \t' + (tst_name('String, String a') ? 'true</br>' : 'false</br>'));
+			document.write('Testing string \'string, string A\': \t' + (tst_name('string, string A') ? 'true</br>' : 'false</br>'));
+			// -->
+		</script>
+	</head>
+	
+	<body>
+		<h1>Cameron's Assignment 3.2 Lab</h1>
+		
+		<img src = "Images/Master.jpg" height = "145" alt = "Picture of me. " />
+		
+		<p>This page is for testing various javascript functions written for the book assignment. It doesn't look very pretty, but it makes more sense if you view the javascript source code. I was writing code based on various exercises in the book. </p>
+	
+	</body>
+</html>
