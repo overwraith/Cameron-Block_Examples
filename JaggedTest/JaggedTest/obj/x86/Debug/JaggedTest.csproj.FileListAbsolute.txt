@@ -1,0 +1,15 @@
+C:\Users\cameron\Desktop\JaggedTest\JaggedTest\bin\Debug\JaggedTest.exe
+C:\Users\cameron\Desktop\JaggedTest\JaggedTest\bin\Debug\JaggedTest.pdb
+C:\Users\cameron\Desktop\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.exe
+C:\Users\cameron\Desktop\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.pdb
+G:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.exe
+G:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.pdb
+G:\C#\JaggedTest\JaggedTest\bin\Debug\JaggedTest.exe
+G:\C#\JaggedTest\JaggedTest\bin\Debug\JaggedTest.pdb
+M:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.exe
+M:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.pdb
+K:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.exe
+K:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.pdb
+K:\C#\JaggedTest\JaggedTest\bin\Debug\JaggedTest.exe
+K:\C#\JaggedTest\JaggedTest\bin\Debug\JaggedTest.pdb
+K:\C#\JaggedTest\JaggedTest\obj\x86\Debug\JaggedTest.csprojResolveAssemblyReference.cache
