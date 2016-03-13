@@ -1,0 +1,6 @@
+D:\Dev\C#\RecursivePrint\RecursivePrint\bin\Debug\RecursivePrint.exe.config
+D:\Dev\C#\RecursivePrint\RecursivePrint\bin\Debug\RecursivePrint.exe
+D:\Dev\C#\RecursivePrint\RecursivePrint\bin\Debug\RecursivePrint.pdb
+D:\Dev\C#\RecursivePrint\RecursivePrint\obj\Debug\RecursivePrint.csprojResolveAssemblyReference.cache
+D:\Dev\C#\RecursivePrint\RecursivePrint\obj\Debug\RecursivePrint.exe
+D:\Dev\C#\RecursivePrint\RecursivePrint\obj\Debug\RecursivePrint.pdb
