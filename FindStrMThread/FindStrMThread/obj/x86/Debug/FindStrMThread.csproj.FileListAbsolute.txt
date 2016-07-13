@@ -1,0 +1,14 @@
+C:\Users\cameron\Desktop\FindStrMThread\FindStrMThread\bin\Debug\FindStrMThread.exe
+C:\Users\cameron\Desktop\FindStrMThread\FindStrMThread\bin\Debug\FindStrMThread.pdb
+C:\Users\cameron\Desktop\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.exe
+C:\Users\cameron\Desktop\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.pdb
+C:\Users\cameron\Desktop\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.csprojResolveAssemblyReference.cache
+G:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.exe
+G:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.pdb
+I:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.exe
+I:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.pdb
+M:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.exe
+M:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.pdb
+M:\C#\FindStrMThread\FindStrMThread\bin\Debug\FindStrMThread.exe
+M:\C#\FindStrMThread\FindStrMThread\bin\Debug\FindStrMThread.pdb
+M:\C#\FindStrMThread\FindStrMThread\obj\x86\Debug\FindStrMThread.csprojResolveAssemblyReference.cache

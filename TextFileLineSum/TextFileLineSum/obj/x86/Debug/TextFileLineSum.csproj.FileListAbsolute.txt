@@ -1,0 +1,10 @@
+C:\Users\cameron\Desktop\TextFileLineSum\TextFileLineSum\bin\Debug\TextFileLineSum.exe
+C:\Users\cameron\Desktop\TextFileLineSum\TextFileLineSum\bin\Debug\TextFileLineSum.pdb
+C:\Users\cameron\Desktop\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.exe
+C:\Users\cameron\Desktop\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.pdb
+C:\Users\cameron\Desktop\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.csprojResolveAssemblyReference.cache
+M:\C#\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.exe
+M:\C#\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.pdb
+M:\C#\TextFileLineSum\TextFileLineSum\bin\Debug\TextFileLineSum.exe
+M:\C#\TextFileLineSum\TextFileLineSum\bin\Debug\TextFileLineSum.pdb
+M:\C#\TextFileLineSum\TextFileLineSum\obj\x86\Debug\TextFileLineSum.csprojResolveAssemblyReference.cache
